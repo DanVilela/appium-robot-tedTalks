@@ -1,0 +1,34 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+
+# Arquivos do Poetry
+.poetry/
+.poetry.lock
+.mypy_cache/
+.pdm.toml
+poetry.lock
+
+# Arquivos do Robot Framework
+output/
+report/
+log/
+results/
+*.html
+*.xml
+
+# Arquivos do Appium
+*.apk
+*.app
+*.ipa
+*.keystore
+
+# Arquivos do VSCode/PyCharm (se aplicável)
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+*.tmp
