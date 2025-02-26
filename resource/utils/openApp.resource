@@ -9,3 +9,4 @@ Open TED App
         ...    platformName=android
         ...    deviceName=Google Pixel 7 Pro
         ...    app=${CURDIR}${/}..${/}app${/}app.apk
+        ...    disableIdLocatorAutocompletion=${True}
