@@ -1,0 +1,4 @@
+interest:
+  nextButton: Next
+  android:
+    interestList: "//android.widget.TextView[contains(@text, '{text}')]"

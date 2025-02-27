@@ -6,3 +6,4 @@ Test Teardown    Close All Applications
 *** Test Cases ***
 Cenário:Acessar APP
     Click in lets go btn
+    Select interest    Technology
