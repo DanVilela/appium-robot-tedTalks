@@ -13,3 +13,8 @@ Variables    resource/locators/interestLocators.yml
 ### Pages
 Resource    resource/pages/welcomePage.resource
 Resource    resource/pages/interestPage.resource
+
+
+*** Variable ***
+
+${PLATAFORM_TYPE}    android
