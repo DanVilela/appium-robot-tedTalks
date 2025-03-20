@@ -5,5 +5,8 @@ Test Teardown    Close All Applications
 
 *** Test Cases ***
 Cenário:Acessar APP
-    Click in lets go btn
+    Click In Lets Go Btn
     Select interest    Technology
+    Select Looking For    Professional growth
+    Skip Sing In
+    View Home
